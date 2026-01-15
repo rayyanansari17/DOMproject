@@ -7,7 +7,7 @@ var fname = document.querySelector("h1")
 
 var body = document.querySelector("body")
 
-var img1 = document.createAttribute("url","/assets/bg.png")
+// var img1 = document.createAttribute("url","/assets/bg.png")
 
 
 
